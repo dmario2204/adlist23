@@ -4,8 +4,8 @@ accesstrade.in.th
 adasiaholdings.com
 adok.asia
 adop.cc
-ads*.bangkokpost.co.th
-ads*.matichon.co.th
+bangkokpost.co.th
+matichon.co.th
 ads.boxza.com
 ads.gamemonday.com
 ads.jarm.com
