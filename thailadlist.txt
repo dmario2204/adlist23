@@ -1,5 +1,5 @@
 24x7th.com
-(\.|^)-adnow.com
+adnow.com
 accesstrade.in.th
 adasiaholdings.com
 adok.asia
@@ -37,7 +37,7 @@ criteo.net
 crwdcntrl.net
 cryptobrowser.site
 csi.gstatic.com
-cxense.com$third-party,domain=~tn.com.ar
+cxense.com
 d-stats.com
 dtscout.com
 effectivemeasure.net
