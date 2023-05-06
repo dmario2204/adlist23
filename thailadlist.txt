@@ -1,5 +1,5 @@
 24x7th.com
-*-adnow.com$third-party
+(\.|^)-adnow.com
 accesstrade.in.th
 adasiaholdings.com
 adok.asia
